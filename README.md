@@ -1,4 +1,4 @@
 my.blog
 =======
 
-my blog pages
+my blog pages.
